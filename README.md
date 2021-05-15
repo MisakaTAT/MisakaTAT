@@ -8,4 +8,6 @@
   <img alt="Windows 10" src="https://img.shields.io/badge/-Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white" />
 </p>
 
+### More Info
 ![MisakaTAT GitHub Stats](https://github-readme-stats.vercel.app/api?username=MisakaTAT&show_icons=true)
+![MisakaTAT GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=MisakaTAT&layout=compact)
