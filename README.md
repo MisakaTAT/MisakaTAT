@@ -1,4 +1,5 @@
-### Tools
+### Tools & OS
+
 <p>
   <img alt="JetBrains" src="https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
@@ -9,7 +10,4 @@
 </p>
 
 ### My Stats
-![MisakaTAT GitHub Stats](https://github-readme-stats.vercel.app/api?username=MisakaTAT&show_icons=true)
-
-### Used Lang
-![MisakaTAT GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=MisakaTAT&layout=compact)
+![MisakaTAT GitHub Stats](https://github-readme-stats.vercel.app/api?username=MisakaTAT&show_icons=true)![MisakaTAT GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=MisakaTAT&layout=compact)
