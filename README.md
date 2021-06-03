@@ -11,3 +11,6 @@
 
 ### My Stats
 ![MisakaTAT GitHub Stats](https://github-readme-stats.vercel.app/api?username=MisakaTAT&show_icons=true)![MisakaTAT GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=MisakaTAT&layout=compact)
+
+### About Me
+My Call Sign: BG5ISN
