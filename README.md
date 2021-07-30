@@ -2,14 +2,13 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MisakaTAT&show_icons=true" width="400px">
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MisakaTAT&layout=compact" width="400px"> -->
-
 - 🎮 I'm FPS game player, i often play the game is `CSGO` and `RainbowSix:Siege`
 - 📡 I'm noob HAM, my call sign is `BG5ISN`
 - 📎 Welcome to my blog https://mikuac.com
 - 💻 My profession is system integration engineer
 - 📺 I like anime and pure music
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MisakaTAT&layout=compact" width="400px">
 
 ### Contact Me
 - My [Email](mailto:i@mikuac.com) is `i@mikuac.com`
