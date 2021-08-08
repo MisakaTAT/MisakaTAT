@@ -1,6 +1,8 @@
 ### About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MisakaTAT&show_icons=true" width="400px">
+<a href="https://github.com/MisakaTAT">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=MisakaTAT&show_icons=true" width="400px" />
+</a>
 
 - 🎮 I'm FPS game player, i often play the game is `CSGO` and `RainbowSix:Siege`
 - 📡 I'm noob HAM, my call sign is `BG5ISN`
@@ -11,7 +13,9 @@
 
 ### Contact Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MisakaTAT&layout=compact" width="400px">
+<a href="https://github.com/MisakaTAT">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisakaTAT&layout=compact" width="400px" />
+</a>
 
 - My [Email](mailto:i@mikuac.com) is `i@mikuac.com`
 - My [Telegram](https://t.me/MisakaTAT) is `@MisakaTAT`
