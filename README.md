@@ -8,7 +8,7 @@
 - 📡 I'm noob HAM, my call sign is `BG5ISN`
 - 📎 Welcome to my blog https://mikuac.com
 - 💻 My profession is system integration engineer
-- 📺 I like watch anime and listen to pure music
+- 📺 My hobby is anime and pure music
 
 
 ### Contact Me
