@@ -33,7 +33,6 @@
 ![](https://img.shields.io/badge/HTML5-ff7f5c?style=flat-square&logo=html5&labelColor=E34F26&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-17344a?style=flat-square&logo=CSS3&labelColor=1471b6&logoColor=white)
-
 ![](https://img.shields.io/badge/-Kotlin-ff8901?style=flat-square&logo=Kotlin&labelColor=1471b6&logoColor=white)
 ![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
 ![](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
