@@ -1,7 +1,7 @@
 ### About Me
 
 <a href="https://github.com/MisakaTAT">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=MisakaTAT&show_icons=true" width="400px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=MisakaTAT&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" width="400px" />
 </a>
 
 - 🎮 I'm FPS gamers, i often play the game is `CSGO` and `RainbowSix:Siege`
@@ -13,7 +13,7 @@
 ### Find Me
 
 <a href="https://github.com/MisakaTAT">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisakaTAT&layout=compact" width="400px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisakaTAT&layout=compact&hide_border=true&icon_color=586069&title_color=a0a9af" width="400px" />
 </a>
 
 [![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MisakaTat)
@@ -24,7 +24,7 @@
 [![](https://img.shields.io/badge/QQ-faaf08?style=flat-square&logo=tencent-qq&logoColor=000000)](http://wpa.qq.com/msgrd?v=3&uin=1140667337&site=qq&menu=yes)
 [![](https://img.shields.io/badge/-Telegram-444?style=flat-square&logo=telegram&logoColor=white)](https://t.me/MisakaTAT)
 
-<h6 style="font-size: .85em;color: var(--color-fg-muted);">すべての人はすべて自分の一面の森林に属することがあって、私达かも知れません これまでかつて行ったことがあることがなくて、しかしそれはずっとあってそこ、どのみちありますそこ。见失う人は见失って、めぐり会う人は更にめぐり会うことができ(ありえ)ます。   —— 村上春樹 《ノルウェイの森》</h6>
+>すべての人はすべて自分の一面の森林に属することがあって、私达かも知れません これまでかつて行ったことがあることがなくて、しかしそれはずっとあってそこ、どのみちありますそこ。见失う人は见失って、めぐり会う人は更にめぐり会うことができ(ありえ)ます。   —— 村上春樹 《ノルウェイの森》
 
 ### Langs & Tools
 ![](https://img.shields.io/badge/-Golang-7ed5ea?style=flat-square&logo=Go&labelColor=04abd7&logoColor=white)
@@ -36,5 +36,5 @@
 ![](https://img.shields.io/badge/-Kotlin-ff8901?style=flat-square&logo=Kotlin&labelColor=1471b6&logoColor=white)
 ![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
 ![](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
-![](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![](https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![](https://img.shields.io/badge/Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=ffffff)
