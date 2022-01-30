@@ -7,7 +7,7 @@
 - 🎮 I'm FPS gamers, i often play the game is `CSGO` and `RainbowSix:Siege`
 - 📡 I'm noob HAM, my call sign is `BG5ISN`
 - 💻 My profession is system integration engineer
-- 📺 My hobby is anime and pure music
+- 📺 Sometimes write code
 
 
 ### Find Me
