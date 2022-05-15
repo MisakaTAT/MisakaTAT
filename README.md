@@ -23,7 +23,7 @@
 [![](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:i@mikuac.com)
 [![](https://img.shields.io/badge/-Telegram-444?style=flat-square&logo=telegram&logoColor=white)](https://t.me/MisakaTAT)
 
->すべての人はすべて自分の一面の森林に属することがあって、私达かも知れません これまでかつて行ったことがあることがなくて、しかしそれはずっとあってそこ、どのみちありますそこ。见失う人は见失って、めぐり会う人は更にめぐり会うことができ(ありえ)ます。   —— 村上春樹 《ノルウェイの森》
+[![](https://count.getloli.com/get/@MisakaTAT?theme=moebooru)](https://github.com/MisakaTAT)
 
 ### Langs & Tools
 ![](https://img.shields.io/badge/-Golang-7ed5ea?style=flat-square&logo=Go&labelColor=04abd7&logoColor=white)
