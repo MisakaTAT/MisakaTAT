@@ -23,7 +23,7 @@
 [![](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:i@mikuac.com)
 [![](https://img.shields.io/badge/-Telegram-444?style=flat-square&logo=telegram&logoColor=white)](https://t.me/MisakaTAT)
 
-[![](https://count.getloli.com/get/@BG5ISN?theme=rule34)](https://github.com/MisakaTAT)
+[![](https://count.getloli.com/get/@MisakaTAT.github.readme?theme=rule34)](https://github.com/MisakaTAT)
 
 ### Langs & Tools
 ![](https://img.shields.io/badge/-Golang-7ed5ea?style=flat-square&logo=Go&labelColor=04abd7&logoColor=white)
