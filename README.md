@@ -4,11 +4,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=MisakaTAT&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" width="400px" />
 </a>
 
-- 🎮 I'm FPS gamers, i often play the game is `CSGO` and `RainbowSix:Siege`
-- 📡 I'm noob HAM, my call sign is `BG5ISN`
-- 💻 My profession is system integration engineer
-- 📺 Sometimes write code
-
+- 🎮 I'm `FPS` gamers, welcome to play with me.
+- 📡 I'm noob `HAM`, my call sign is `BG5ISN`.
+- 💻 My profession is system integration engineer.
+- 📺 Sometimes write code.
 
 ### Find Me
 
@@ -16,14 +15,14 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisakaTAT&layout=compact&hide_border=true&icon_color=586069&title_color=a0a9af" width="400px" />
 </a>
 
+[![](https://count.getloli.com/get/@MisakaTAT.github.readme?theme=rule34)](https://github.com/MisakaTAT)
+
 [![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MisakaTat)
 [![](https://img.shields.io/badge/Steam-0A4065?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/MisakaTAT)
 [![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/50658990)
 [![](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://mikuac.com)
 [![](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:i@mikuac.com)
 [![](https://img.shields.io/badge/-Telegram-444?style=flat-square&logo=telegram&logoColor=white)](https://t.me/MisakaTAT)
-
-[![](https://count.getloli.com/get/@MisakaTAT.github.readme?theme=rule34)](https://github.com/MisakaTAT)
 
 ### Langs & Tools
 ![](https://img.shields.io/badge/-Golang-7ed5ea?style=flat-square&logo=Go&labelColor=04abd7&logoColor=white)
