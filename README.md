@@ -4,11 +4,11 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=MisakaTAT&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" width="400px" />
 </a>
 
-- Hi there, I'm [MisakaTAT](https://github.com/MisakaTAT)
-- I'm `FPS` gamers, welcome to play with me.
-- I'm noob `HAM`, my call sign is `BG5ISN`.
-- I'm currently learning `Rust` and more.
-- I'm a developer, sometimes working on opensource.
+- Hi there, I'm [MisakaTAT](https://github.com/MisakaTAT). 
+- I'm an FPS gamer and welcome to play with me. 
+- I'm a beginner HAM radio enthusiast with the call sign BG5ISN.
+- Currently, I'm expanding my programming skills and learning Rust. 
+- As a developer, I occasionally work on open-source projects.
 
 ### Find Me
 
