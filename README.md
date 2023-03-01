@@ -5,10 +5,7 @@
 </a>
 
 - Hi there, I'm [MisakaTAT](https://github.com/MisakaTAT). 
-- I'm an FPS gamer and welcome to play with me. 
-- I'm a beginner HAM radio enthusiast with the call sign BG5ISN.
-- Currently, I'm expanding my programming skills and learning Rust. 
-- As a developer, I occasionally work on open-source projects.
+- I'm an FPS gamer. Welcome to play with me! I'm a beginner HAM radio enthusiast with the call sign **BG5ISN**. Currently, I'm expanding my programming skills and learning **Rust**. As a developer, I occasionally work on open-source projects.
 
 ### Find Me
 
