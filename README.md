@@ -34,6 +34,3 @@
 ![](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![](https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![](https://img.shields.io/badge/Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=ffffff)
-
-![GitHub Snake Light](https://github.com/MisakaTAT/MisakaTAT/raw/snack/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/MisakaTAT/MisakaTAT/raw/snack/github-snake-dark.svg#gh-dark-mode-only)
